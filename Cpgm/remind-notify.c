@@ -5,11 +5,17 @@
 
 int main(int argc, char *argv[])
 {
+	if(argc != 3)
+	{
+		perror("Arguments ");
+		printf("Usage : %s <Time> <Notify_cmd>",argv[0]);
+		return 0;
+	}
 
     time_t current_time;
     char* c_time_string;
     
-
+	/* Getting current time. */
     current_time = time(NULL);
 
     /* Convert to local time format. */

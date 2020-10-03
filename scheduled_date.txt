@@ -1,7 +1,43 @@
-23 Aug 2020
-Unix module test
----
-24 Aug 2020
-TCPIP module test
----
-//JK
+{
+"sun":
+	{
+	
+	},
+"mon":
+	{
+	"08:30":"EasyHR - Put Check-In",
+	"06:30":"EasyHR - Put Check-Out",
+	"07:00":"Daily Report - Update Today's Report"
+	},
+"tue":
+	{
+	"08:30":"EasyHR - Put Check-In",
+	"06:30":"EasyHR - Put Check-Out",
+	"07:00":"Daily Report - Update Today's Report"
+	},
+"wed":
+	{
+	"08:30":"EasyHR - Put Check-In",
+	"06:30":"EasyHR - Put Check-Out",
+	"07:00":"Daily Report - Update Today's Report"
+	},
+"thu":
+	{
+	"08:30":"EasyHR - Put Check-In",
+	"06:30":"EasyHR - Put Check-Out",
+	"07:00":"Daily Report - Update Today's Report"
+	},
+"fri":
+	{
+	"08:30":"EasyHR - Put Check-In",
+	"06:30":"EasyHR - Put Check-Out",
+	"07:00":"Daily Report - Update Today's Report"
+	},
+"sat":
+	{
+	"08:30":"EasyHR - Put Check-In",
+	"03:30":"EasyHR - Put Check-Out",
+	"04:00":"Daily Report - Update Today's Report",
+	"04:30":"Weekly Report - Update This Week Report"
+	}
+}
